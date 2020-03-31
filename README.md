@@ -1,0 +1,2 @@
+# ppshuai_libzbarcode_src
+ppshuai_libzbarcode_src,完美支持中文编解码
